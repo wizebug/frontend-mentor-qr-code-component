@@ -1,7 +1,7 @@
 
 # QR Code Component — Frontend Mentor Challenge
 
-> A simple card
+A simple card...
 
 ## Project Notes
 
@@ -14,8 +14,8 @@ Skipping a top-level heading (e.g., `<h1>Scan the QR code</h1>`) might seem harm
 In real-world applications, these "minor" details compound. What starts as a single QR card today could become part of a dashboard, an onboarding flow, or a payment confirmation screen tomorrow. Building it right **from the start** is how scalable, inclusive design begins.---
 
 ## Built with
-- Angular (standalone components)
-- SCSS
+- Angular
+- TailwindCss
 - Mobile-first responsive design
 
 ## How to run locally
